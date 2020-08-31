@@ -7,9 +7,13 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "knrdhz",
   "license": "ISC",
   "dependencies": {
     "live-server": "^1.2.1"
+  },
+  "devDependencies": {
+    "eslint": "^7.5.0",
+    "prettier": "^2.0.5"
   }
 }
